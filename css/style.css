@@ -71,6 +71,7 @@ img, video, audio, iframe, table, form {
 
 .white-wood {
   background: url(../images/white-wood.jpg) no-repeat center top;
+  background-size: cover;
 }
 
 .shadow {
