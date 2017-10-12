@@ -64,6 +64,11 @@ img, video, audio, iframe, table, form {
 
 /*/////// LAYOUT ////////*/
 
+.border-right {
+  border-right: 1px dotted #ccc;
+  padding-right: 30px;
+}
+
 .shadow {
 
    box-shadow: 0 3px 10px #333;
