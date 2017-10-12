@@ -69,6 +69,10 @@ img, video, audio, iframe, table, form {
   padding-right: 30px;
 }
 
+.white-wood {
+  background: url(../images/white-wood.jpg) no-repeat center top;
+}
+
 .shadow {
 
    box-shadow: 0 3px 10px #333;
